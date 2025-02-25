@@ -23,6 +23,10 @@
 - [Projects](./projects/README.md)
 <br>
 
+<h2 align="left">Contributing</h2>
+
+- [Contributing](./CONTRIBUTING.md)
+
 <h2 align="left">⚖️ License</h2>
 
   - License - [Click Me](./LICENSE)
