@@ -3,7 +3,7 @@
 - `SPEEDJS`
 
   - 01_variables_datatypes.js
-  - 02*operations_comparisons*.js
+  - 02_operations_comparisons*.js
   - 03_array_object.js
 
 ## Contributing
