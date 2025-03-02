@@ -17,8 +17,7 @@
 <h2 align="left">Contents</h2>
 
 - [Articles](./articles/README.md)
-- [Code Challenges](./challenges/README.md)
-- [Code Files](./Code%20Files/README.md)
+- [Code Files & Challenges](./Code%20Files%20&%20Challenges/README.md)
 - [Projects](./projects/README.md)
   <br>
 

@@ -27,6 +27,7 @@ To use this project, follow these steps:
 
 
 ## License
+- [License](./LICENSE)
 - Feel free to use the source code provided in this project for both personal and professional purposes. You are allowed to modify, distribute, and adapt the code as per your requirements.
 
 - However, it is required to provide attribution to the original [author](your name or preferred attribution) in the project documentation or any derived work. This attribution should clearly state that the original source code was obtained from this project.

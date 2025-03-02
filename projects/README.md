@@ -1,7 +1,16 @@
+<h1 align="center">Projects</h1>
+
+
+| Project | Description | Live Demo |
+|---------|---------------|------------|
+| [Digital Clock](./Digital%20Clock/index.html) | A simple digital clock built using HTML, CSS, and JavaScript | [View Project](https://jay-govind.github.io/chai-cohort/projects/Digital%20Clock/) |
+
 ## Contributing
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+- Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+- See [CONTRIBUTING.md](../CONTRIBUTING.md) for ways to get started.
 
 ## License
+
 - Feel free to use the source code provided in this project for both personal and professional purposes. You are allowed to modify, distribute, and adapt the code as per your requirements.
 
 - However, it is required to provide attribution to the original [author](your name or preferred attribution) in the project documentation or any derived work. This attribution should clearly state that the original source code was obtained from this project.
