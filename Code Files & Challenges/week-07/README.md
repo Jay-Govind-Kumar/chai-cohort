@@ -4,6 +4,7 @@
 - `DOM (Document Object Model)`
 - `Challenges`
   - Change Theme [Live demo](https://jay-govind-kumar.github.io/chai-cohort/Code%20Files%20&%20Challenges/week-07/challenges/Theme/)
+  - Todo [Live demo](http://127.0.0.1:3000/Code%20Files%20&%20Challenges/week-07/challenges/Todo/index.html)
 
 ## Contributing
 
