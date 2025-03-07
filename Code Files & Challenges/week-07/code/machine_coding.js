@@ -37,7 +37,7 @@ function applyOperation(a, b, operation) {
   return operation(a, b);
 }
 
-const result = applyOperation(3, 2, (a, b) => a - b);
+const result = applyOperation(3, 2, (x, y) => x - y);
 console.log(result); // 1
 
 /* -------------------------------------------------------------------------- */
