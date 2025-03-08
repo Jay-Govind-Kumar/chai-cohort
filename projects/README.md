@@ -3,7 +3,7 @@
 
 | Project | Description | Live Demo |
 |---------|---------------|------------|
-| [Digital Clock](./Digital%20Clock/index.html) | A simple digital clock built using HTML, CSS, and JavaScript | [View Project](https://jay-govind.github.io/chai-cohort/projects/Digital%20Clock/) |
+| [Digital Clock](./Digital%20Clock/index.html) | A simple digital clock built using HTML, CSS, and JavaScript | [View Project](https://jay-govind-kumar.github.io/chai-cohort/projects/Digital%20Clock/) |
 
 ## Contributing
 - Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
@@ -22,7 +22,7 @@ For any inquiries or feedback, please reach out to me through the following chan
 - Email     : [Email me](mailto:govind.iq@gmail.com)
 - LinkedIn  : [@Jay Govind Kumar](https://www.linkedin.com/in/govind-jay)
 - Twitter   : [@_JayGovind](https://twitter.com/_JayGovind)
-- GitHub    : [Jay-Govind](https://www.github.com/Jay-Govind)
+- GitHub    : [Jay-Govind](https://www.github.com/Jay-Govind-Kumar)
 
 
 
