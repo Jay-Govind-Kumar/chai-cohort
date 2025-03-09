@@ -8,7 +8,7 @@
 - [Contact](#contact)
 
 ## Project Overview: 
-- [Live demo](https://jay-govind.github.io/chai-cohort/projects/Digital%20Clock/)
+- [Live demo](https://jay-govind-kumar.github.io/chai-cohort/projects/Digital%20Clock/)
  ![Digital Clock](./assets/digital-clock.png)
 
 This project aims to create a digital clock using HTML, CSS, and JavaScript. The clock displays the current time and date in a user-friendly format.
@@ -39,7 +39,7 @@ For any inquiries or feedback, please reach out to me through the following chan
 - Email     : [Email me](mailto:govind.iq@gmail.com)
 - LinkedIn  : [@Jay Govind Kumar](https://www.linkedin.com/in/govind-jay)
 - Twitter   : [@_JayGovind](https://twitter.com/_JayGovind)
-- GitHub    : [Jay-Govind](https://www.github.com/Jay-Govind)
+- GitHub    : [Jay-Govind](https://www.github.com/Jay-Govind-Kumar)
 
 
 
