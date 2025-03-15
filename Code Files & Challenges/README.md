@@ -6,17 +6,18 @@
 
 ## Weekly Tracks
 
-| **Week**| **Date**        | **Content** |
-| --------| --------------- | ----------- |
-| Week-01 | Jan 11          | [Introduction](./week-01/README.md) |  
-| Week-02 | Jan 12-18       | [HTML + Articles](./week-02/README.md) |
-| Week-03 | Jan 19-25       | [CSS + Challenges](./week-03/README.md) |
-| Week-04 | Jan 26 - Feb 01 | [CSS libraries + JS Intro](./week-04/README.md) |
-| Week-05 | Feb 02-08       | [Conditionals, Loops & Array Challenges](./week-05/README.md) |
-| Week-06 | Feb 09-15       | [Objects & Prototypes](./week-06/README.md) |
-| Week-07 | Feb 16-22       | [DOM + Prototype & Object Challenges](./week-07/README.md) |
-| Week-08 | Feb 23 - Mar 01 | [JS Revision + Basic Projects](./week-08/README.md) |
-
+| **Week**                    | **Content**                                                     |
+| --------------------------- | --------------------------------------------------------------- |
+| `Week-01` (Jan 11)          | [Introduction](./week-01/README.md)                             |
+| `Week-02` (Jan 12-18)       | [HTML + Articles](./week-02/README.md)                          |
+| `Week-03` (Jan 19-25)       | [CSS + Challenges](./week-03/README.md)                         |
+| `Week-04` (Jan 26 - Feb 01) | [CSS libraries + JS Intro](./week-04/README.md)                 |
+| `Week-05` (Feb 02-08)       | [Conditionals, Loops & Array Challenges](./week-05/README.md)   |
+| `Week-06` (Feb 09-15)       | [Objects & Prototypes](./week-06/README.md)                     |
+| `Week-07` (Feb 16-22)       | [DOM + Prototype & Object Challenges](./week-07/README.md)      |
+| `Week-08` (Feb 23 - Mar 01) | [JS Revision + Basic Projects](./week-08/README.md)             |
+| `Week-09` (Mar 02-08)       | [Project](./week-09/README.md)                                  |
+| `Week-10` (Mar 09-15)       | [Full Stack Project Overview + JS Project](./week-10/README.md) |
 
 ## Contributing
 

@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+input,
+button {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #f1f1f1;
+  color: #333;
+}
+
+#countdownDisplay {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+#startButton {
+  background-color: #4caf50;
+  color: white;
+}
+
+#startButton:hover {
+  opacity: 0.8;
+}
+

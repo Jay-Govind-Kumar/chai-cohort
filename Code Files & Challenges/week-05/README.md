@@ -1,28 +1,23 @@
 <h1 align="center">Week-05</h1>
 
-- `data_types`
-  - Primitive Data Types
-  - Non-Primitive Data Types
+- `JS Conditionals & Loops`
+- `Objects, Arrays, Classes in JS`
 
-- `conditional_statements`
-  - if else
-  - ternary
-  - switch case
+- `Articles` - Visit the Articles folder to read articles.
 
-- `loops`
-
+- `JS Challenges`
+  - Conditionals Challenges
+    - [Challenge 1](./challenges/Conditionals/Conditionals%20Challenge%201.js)
+    - [Challenge 2](./challenges/Conditionals/Conditionals%20Challenge%202.js)
+    - [Challenge 3](./challenges/Conditionals/Conditionals%20Challenge%203.js)
+    - [Challenge 4](./challenges/Conditionals/Conditionals%20Challenge%204.js)
+    - [Challenge 5](./challenges/Conditionals/Conditionals%20Challenge%205.js)
+    - [Challenge 6](./challenges/Conditionals/Conditionals%20Challenge%206.js)
+    - [Challenge 7](./challenges/Conditionals/Conditionals%20Challenge%207.js)
+    - [Challenge 8](./challenges/Conditionals/Conditionals%20Challenge%208.js)
+    - [Challenge 9](./challenges/Conditionals/Conditionals%20Challenge%209.js)
+    - [Challenge 10](./challenges/Conditionals/Conditionals%20Challenge%2010.js)
 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-## Contact
-
-For any inquiries or feedback, please reach out to me through the following channels:
-
-- Email : [Email me](mailto:govind.iq@gmail.com)
-- LinkedIn : [@Jay Govind Kumar](https://www.linkedin.com/in/govind-jay)
-- Twitter : [@\_JayGovind](https://twitter.com/_JayGovind)
-- GitHub : [Jay-Govind](https://www.github.com/Jay-Govind-Kumar)
-
-Feel free to connect with me and let's discuss the project or any other interesting ideas!

@@ -56,23 +56,23 @@ function trafficLight(color) {
 
 function checkTruthyValue(value) {
   if (value) {
-    return "Truthy Value";
+    console.log ("Truthy Value");
   } else {
-    return "Falsy Value";
+    console.log ("Falsy Value");
   }
 }
 
-// console.log(checkTruthyValue(0)); // Falsy Value
-// console.log(checkTruthyValue(1)); // Truthy 
-// console.log(checkTruthyValue("")); // Falsy Value
-// console.log(checkTruthyValue("hello")); // Truthy Value
-// console.log(checkTruthyValue(null)); // Falsy Value
-// console.log(checkTruthyValue(undefined)); // Falsy Value
-// console.log(checkTruthyValue(true)); // Truthy Value
-// console.log(checkTruthyValue(false)); // Falsy Value
-// console.log(checkTruthyValue([])); // Truthy Value
-// console.log(checkTruthyValue({})); // Truthy Value
-// console.log(checkTruthyValue(NaN)); // Falsy Value
-// console.log(checkTruthyValue(-1)); // Truthy Value
-// console.log(checkTruthyValue("0")); // Truthy Value
+// checkTruthyValue(0); // Falsy Value
+// checkTruthyValue(1); // Truthy 
+// checkTruthyValue(""); // Falsy Value
+// checkTruthyValue("hello"); // Truthy Value
+// checkTruthyValue(null); // Falsy Value
+// checkTruthyValue(undefined); // Falsy Value
+// checkTruthyValue(true); // Truthy Value
+// checkTruthyValue(false); // Falsy Value
+// checkTruthyValue([]); // Truthy Value
+// checkTruthyValue({}); // Truthy Value
+// checkTruthyValue(NaN); // Falsy Value
+// checkTruthyValue(-1); // Truthy Value
+// checkTruthyValue("0"); // Truthy Value
 
