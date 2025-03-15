@@ -1,7 +1,7 @@
 # Simple Calculator
 
 - [Live demo](https://jay-govind-kumar.github.io/chai-cohort/projects/Simple%20Calculator/)
-  ![Random Quote Generator](./assets/Calculator.png)
+  ![Simple Calculator](./assets/Calculator.png)
 
 This project aims to create a simple calculator using HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
