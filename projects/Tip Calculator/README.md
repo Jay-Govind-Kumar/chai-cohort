@@ -1,7 +1,7 @@
 # Tip Calculator
 
 - [Live demo](https://jay-govind-kumar.github.io/chai-cohort/projects/Tip%20Calculator/)
-  ![Simple Calculator](./assets/tip.png)
+  ![Tip Calculator](./assets/tip.png)
 
 This project aims to create a simple tip calculator using HTML, CSS, and JavaScript. The calculator allows users to calculate the tip amount based on the total bill amount and desired tip percentage.
 
