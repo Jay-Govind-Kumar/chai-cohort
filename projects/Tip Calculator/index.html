@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tip calculator | Jay Govind</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Tip Calculator</h1>
+
+      <!-- Bill Amount Input-->
+      <label for="billAmount">Bill Amount</label>
+      <input id="billAmount" type="number" placeholder="Enter bill amount" />
+
+      <!-- Tip Percentage Input-->
+      <label for="tipPercentage">Tip Percentage</label>
+      <input id="tipPercentage" type="number" placeholder="Enter tip %" />
+
+      <!-- Number of People Input-->
+      <label for="numPeople">Number of People</label>
+      <input
+        id="numPeople"
+        type="number"
+        placeholder="Enter number of people"
+      />
+
+      <!-- Result Section -->
+      <button id="calculateButton">Calculate Tip</button>
+      <p id="totalTip">Total Tip: $0.00</p>
+      <p id="tipPerPerson">Tip per Person: $0.00</p>
+    </div>
+
+    <div class="attribute">
+      Created by
+      <a href="https://linktr.ee/jay_govind_kumar" target="_blank">
+        JAY GOVIND KUMAR
+      </a>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

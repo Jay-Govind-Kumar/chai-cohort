@@ -3,6 +3,7 @@
 - `Visit in the Full Stack folder`
 
   - Full Stack Authentication App (Next Half Done)
+  - Finishing the Full Stack Authentication App with mongoDB
 
 - `Visit all the projects in the Project folder`
 
@@ -11,6 +12,7 @@
   - `Day 3 Project`: Advanced Color Picker
   - `Day 4 Project`: Random Quote Generator
   - `Day 5 Project`: Simple Calculator
+  - `Day 6 Project`: Tip Calculator
 
 ## Contributing
 
