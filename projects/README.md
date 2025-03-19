@@ -1,13 +1,18 @@
 <h1 align="center">Projects</h1>
 
-| Projects                                                            | Live                                                                                        |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 1. [Background Change](./Background%20Change/README.md)             | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/Background%20Change/)        |
-| 2. [Digital Clock](./Digital%20Clock/README.md)                     | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/Digital%20Clock/)            |
-| 3. [CountDown Timer](./CountDown%20Timer/README.md)                 | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/CountDown%20Timer/)          |
-| 4. [Advanced Color Picker](./Advanced%20Color%20Picker/README.md)   | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/Advanced%20Color%20Picker/)  |
-| 5. [Random Quote Generator](./RandoM%20Quote%20Generator/README.md) | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/Random%20Quote%20Generator/) |
-| 6. [Simple Calculator](./Simple%20Calculator/README.md)             | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/Simple%20Calculator/)        |
+| Projects                                                           | Live                                                                                         |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| [Advanced Color Picker](./Advanced%20Color%20Picker/README.md)     | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/Advanced%20Color%20Picker/)   |
+| [Background Change](./Background%20Change/README.md)               | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/Background%20Change/)         |
+| [Background Color Change](./Background%20Color%20Change/README.md) | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/Background%20Color%20Change/) |
+| [CountDown Timer](./CountDown%20Timer/README.md)                   | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/CountDown%20Timer/)           |
+| [Character Counter](./Character%20Counter/README.md)               | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/Character%20Counter/)         |
+| [Dice Roll Simulator](./Dice%20Roll%20Simulator/README.md)         | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/Dice%20Roll%20Simulator/)     |
+| [Digital Clock](./Digital%20Clock/README.md)                       | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/Digital%20Clock/)             |
+| [Palindrome Checker](./Palindrome%20Checker/README.md)             | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/Palindrome%20Checker/)        |
+| [Random Quote Generator](./RandoM%20Quote%20Generator/README.md)   | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/Random%20Quote%20Generator/)  |
+| [Simple Calculator](./Simple%20Calculator/README.md)               | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/Simple%20Calculator/)         |
+| [Tip calculator](./Tip%20Calculator/README.md)                     | [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/Tip%20Calculator/)            |
 
 ## Contributing
 
