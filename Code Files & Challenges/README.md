@@ -18,6 +18,7 @@
 | `Week-08` (Feb 23 - Mar 01) | [JS Revision + Basic Projects](./week-08/README.md)             |
 | `Week-09` (Mar 02-08)       | [Project](./week-09/README.md)                                  |
 | `Week-10` (Mar 09-15)       | [Full Stack Project Overview + JS Project](./week-10/README.md) |
+| `Week-11` (Mar 16-22)       | [Full Stack Project Overview + JS Project](./week-11/README.md) |
 
 ## Contributing
 
