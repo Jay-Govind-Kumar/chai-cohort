@@ -1,0 +1,90 @@
+<!-- 
+1. Create a table with three columns: "City", "Country" and "Population". Add three rows of data.
+2. Create a table with a caption that lists your favourite foods and their respective categories.
+3. Use `colspan` and `rowspan` to create a complex table layout for a weekly schedule.
+  -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Challenge 6</title>
+  </head>
+  <body>
+    <h1>Tables</h1>
+    <table border="1">
+      <tr>
+        <td>City</td>
+        <td>Country</td>
+        <td>Population (in Cr.)</td>
+      </tr>
+      <tr>
+        <td>Delhi</td>
+        <td>India</td>
+        <td>21</td>
+      </tr>
+      <tr>
+        <td>Mumbai</td>
+        <td>India</td>
+        <td>14</td>
+      </tr>
+      <tr>
+        <td>Chennai</td>
+        <td>India</td>
+        <td>7</td>
+      </tr>
+    </table>
+
+    <table border="1">
+      <caption>
+        Favourite Foods
+      </caption>
+      <tr>
+        <th>Food</th>
+        <th>Category</th>
+      </tr>
+      <tr>
+        <td>Paratha</td>
+        <td>Indian</td>
+      </tr>
+      <tr>
+        <td>Chowmein</td>
+        <td>Indian</td>
+      </tr>
+      <tr>
+        <td>Pizza</td>
+        <td>Italian</td>
+      </tr>
+      <tr>
+        <td>French Fries</td>
+        <td>American</td>
+      </tr>
+    </table>
+
+    <table border="1">
+      <caption>
+        Weekly Schedule
+      </caption>
+      <tr>
+        <th>Day</th>
+        <th>Subject</th>
+      </tr>
+      <tr>
+        <td rowspan="2">Monday</td>
+        <td>Maths</td>
+      </tr>
+      <tr>
+        <td>English</td>
+      </tr>
+      <tr>
+        <td rowspan="2">Tuesday</td>
+        <td>Science</td>
+      </tr>
+      <tr>
+        <td>English</td>
+      </tr>
+    </table>
+
+  </body>
+</html>

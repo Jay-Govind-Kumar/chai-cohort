@@ -1,0 +1,115 @@
+<!-- 
+1.  Embed a video on a webpage with the following:
+    - Add controls, autoplay, and a poster image.
+    - Add subtitles using the `track` tag.
+2. Create an audio player with two different audio formats.
+3. Enbed a youtube video using an `iframe`.
+4. Create a table listing three common video and audio formats, along with their descriptions.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Challenge 9</title>
+  </head>
+  <body>
+    <h1>Media</h1>
+
+    <!-- Video with controls, autoplay, poster, and subtitles -->
+    <video
+      controls
+      autoplay
+      muted
+      poster="https://www.w3schools.com/html/img_girl.jpg"
+      width="320"
+    >
+      <source
+        src="https://www.w3schools.com/html/mov_bbb.mp4"
+        type="video/mp4"
+      />
+      <source
+        src="https://www.w3schools.com/html/mov_bbb.webm"
+        type="video/webm"
+      />
+
+      <track
+        src="https://www.w3schools.com/html/mov_bbb_en.vtt"
+        kind="subtitles"
+        srclang="en"
+        label="English"
+      />
+      Download the
+      <a href="https://www.w3schools.com/html/mov_bbb.webm">WEBM</a>
+      or
+      <a href="https://www.w3schools.com/html/mov_bbb.mp4">MP4</a>
+      video.
+    </video>
+
+    <!-- Audio with two formats -->
+    <figure>
+      <figcaption>Listen to the T-Rex:</figcaption>
+      <audio controls>
+        <source
+          src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+          type="audio/mp3"
+        />
+        <source
+          src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.ogg"
+          type="audio/ogg"
+        />
+        Your browser does not support the audio element.
+      </audio>
+      <a href="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3">
+        Download audio
+      </a>
+    </figure>
+
+    <!-- YouTube video embedded with iframe -->
+    <iframe
+      width="320"
+      height="240"
+      src="https://www.youtube.com/embed/KnIye1fJF80?si=Z-EmXC2dPEH2Z2hi"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+    ></iframe>
+
+    <!-- Table with video and audio formats -->
+    <h2>Common Video and Audio Formats</h2>
+    <table border="1">
+      <thead>
+        <tr>
+          <th>Format</th>
+          <th>Type</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>MP4</td>
+          <td>Video</td>
+          <td>Widely supported format for video streaming and playback</td>
+        </tr>
+        <tr>
+          <td>WEBM</td>
+          <td>Video</td>
+          <td>Open-source video format optimized for web use</td>
+        </tr>
+        <tr>
+          <td>MP3</td>
+          <td>Audio</td>
+          <td>Commonly used audio format for music and other audio content</td>
+        </tr>
+        <tr>
+          <td>OGG</td>
+          <td>Audio</td>
+          <td>Open-source audio format with good compression</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

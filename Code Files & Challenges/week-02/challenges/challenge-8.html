@@ -1,0 +1,60 @@
+<!-- 
+ 1.Create a simple webpage with the following sections:
+    - Header with a title and a navigation menu.
+    - Main content with a section and an article.
+    - Sidebar using `aside` for related links.
+    - Footer with copyright information.
+2. Use the `aria-label` attribute to improve accessibility in your navigation menu.
+3. Create a blog post layut using semantic elements such as `article`, `header` and `footer`.  -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Challenge 8</title>
+  </head>
+  <body>
+    <h1>Aria tags</h1>
+    <header aria-label="Main navigation">
+      <a href="#" aria-label="Home">Link 1</a>
+      <a href="#" aria-label="About">Link 2</a>
+      <a href="#" aria-label="Contact">Link 3</a>
+    </header>
+    <main aria-label="Main content">
+      <section aria-label="Main section">
+        <h2>Section</h2>
+        <article aria-label="Article">
+          <h3>Article</h3>
+          <p>Paragraph</p>
+        </article>
+      </section>
+      <aside aria-label="Sidebar">
+        <h2>Sidebar</h2>
+        <ul>
+          <li><a href="#">Link 1</a></li>
+          <li><a href="#">Link 2</a></li>
+          <li><a href="#">Link 3</a></li>
+        </ul>
+      </aside>
+    </main>
+    <footer aria-label="Footer">
+      <p>Copyright &copy; 2025</p>
+    </footer>
+
+    <h1>Blog Post</h1>
+    <article>
+      <header>
+        <h2>Blog Post Title</h2>
+        <p>Author Name</p>
+        <p>Published Date</p>
+      </header>
+      <main>
+        <p>Blog Post Content</p>
+      </main>
+      <footer>
+        <p>Tags: tag1, tag2, tag3</p>
+      </footer>
+    </article>
+  </body>
+</html>

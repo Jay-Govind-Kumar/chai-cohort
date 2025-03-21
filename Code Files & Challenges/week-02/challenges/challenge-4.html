@@ -1,0 +1,48 @@
+<!-- 
+ 1. Create a webpage with the following:
+    - A paragraph with a link to an external website.
+    - An anchor link that jumps to a specific section of the same page.
+2. Create a navigation menu with links to three pages: Home, Services, and Contact.
+3. Add a link that opens in a new tab and another link that downloads a file.
+4. Create an email link that opens the user's email client.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Challenge 4</title>
+  </head>
+  <body>
+    <h1>Links</h1>
+    <p>
+      If you want to search anything then click here
+      <a href="https://www.google.com/" target="_blank">Google</a>
+    </p>
+
+    <p>
+      If you want to contact me, then click here
+      <a href="#contact">Contact</a>
+    </p>
+
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+
+    <section>
+      <a href="https://www.google.com/" target="_blank">Google</a>
+      <a
+        href="https://www.just.edu.jo/~mqais/CIS99/PDF/Ch.01_Introduction_%20to_computers.pdf"
+        download
+        >Download link</a
+      >
+    </section>
+
+    <section id="contact">
+      <a href="mailto:Oa2kP@example.com">Email Me</a>
+    </section>
+  </body>
+</html>

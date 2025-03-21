@@ -1,0 +1,45 @@
+<!-- 
+1. Add an image to a webpage with the following :
+    -  Set the width to 400 pixels.
+    - Add an appropriate alt text and title.
+2. Create a clickable image that links to an external website.
+3. Create a div with a background image, ensuring it covers the entire div and is centered.
+  -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Challenge 5</title>
+    <style>
+      .background {
+        height: 400px;
+        width: 400px;
+        background-image: url(https://images.unsplash.com/photo-1741217529666-10911b02fb1b?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+        background-size: cover;
+        background-position: center;
+        margin: 0 auto;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Images</h1>
+    <img
+      src="https://images.unsplash.com/photo-1726137569807-c0ce211ccbec?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      alt="Random Image"
+      width="400"
+      title="Random Image"
+    />
+
+    <a href="https://unsplash.com/" target="_blank"
+      ><img
+        src="https://images.unsplash.com/photo-1726137569807-c0ce211ccbec?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        alt="Link"
+        title="Click me to visit Unsplash"
+        width="100"
+    /></a>
+
+    <div class="background"></div>
+  </body>
+</html>
