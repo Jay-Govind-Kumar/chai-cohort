@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Position</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        height: 1500px;
+      }
+      div {
+        box-sizing: border-box;
+        height: 200px;
+        width: 200px;
+        background-color: #f0f0f0;
+        border: 20px solid #ccc;
+        padding: 40px;
+      }
+
+      .absolute {
+        position: absolute;
+        top: 0;
+        right: 0;
+      }
+
+      .relative {
+        position: relative;
+        top: 150px;
+        left: 150px;
+      }
+
+      .static {
+        position: static;
+      }
+
+      .fixed {
+        position: fixed;
+        top: 0;
+        left: 0;
+      }
+
+      .sticky {
+        position: sticky;
+        top: 0;
+        right: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="absolute">Absolute</div>
+    <div class="relative">Relative</div>
+    <div class="static">Static</div>
+    <div class="fixed">Fixed</div>
+    <div class="sticky">Sticky</div>
+  </body>
+</html>
+ 
