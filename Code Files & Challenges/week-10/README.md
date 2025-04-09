@@ -1,9 +1,15 @@
-<h1 align="center">Week-10</h1>
+<h1 align="center">Week-10 (Mar 10-16)</h1>
 
-- `Visit in the Full Stack folder`
+- `Full Stack Authentication App With Non-Sequential Database` - (Completed)
 
-  - Full Stack Authentication App (Next Half Done)
-  - Finishing the Full Stack Authentication App with mongoDB
+  - Write Backend Code
+  - [**Go To Project Repo**](https://github.com/Jay-Govind-Kumar/Authentication-System-with-NonSequential-Database)
+
+- `Full Stack Authentication App With Sequential Database` - (Completed)
+
+  - Using Prisma, Express and PostgreSQL
+  - Write Backend Code
+  - [**Go To Project Repo**](https://github.com/Jay-Govind-Kumar/Authentication-System-with-Sequential-Database)
 
 - `Visit all the projects in the Project folder`
 
@@ -13,7 +19,3 @@
   - `Day 4 Project`: Random Quote Generator
   - `Day 5 Project`: Simple Calculator
   - `Day 6 Project`: Tip Calculator
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.

@@ -1,13 +1,13 @@
-<h1 align="center">Week-02</h1>
-
-- `Introduction to Web`
-- `Mastering HTML`
+<h1 align="center">Week-02 (Jan 13-19)</h1>
 
 - `Articles` - Visit the Articles folder to read articles.
 
+- `Mastering HTML`
+- `Introduction to CSS & Flexbox`
+
 - `PRD - Product Requirements Document`
 
-- `Challenges`
+- `HTML Challenges`
   - [Challenge 1](./challenges/challenge-1.html)
   - [Challenge 2](./challenges/challenge-2.html)
   - [Challenge 3](./challenges/challenge-3.html)
@@ -19,7 +19,3 @@
   - [Challenge 9](./challenges/challenge-9.html)
   - [Challenge 10](./challenges/challenge-10.html)
   - [Challenge 11](./challenges/challenge-11.html)
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.

@@ -1,29 +1,36 @@
-// Function that encapsulates the logic for creating a new button
-function createButton() {
-  const container = document.getElementById("buttons-container");
-  const hexInput = document.getElementById("hexcolor-input");
+const changeColorButton = document.getElementById("changeColorButton");
+const changeImageButton = document.getElementById("changeImageButton");
+const heading = document.getElementById("h1");
 
-  return function () {
-    const hexValue = hexInput.value;
-    if (!hexValue) return; // Prevent creating a button with an empty hex value
+function changeColor() {
+  const red = Math.floor(Math.random() * 256);
+  const green = Math.floor(Math.random() * 256);
+  const blue = Math.floor(Math.random() * 256);
 
-    // Create a new button element
-    let newBtn = document.createElement("button");
-    newBtn.className = "btn";
-    newBtn.style.backgroundColor = "#" + hexValue;
+  const rgb = `rgb(${red}, ${green}, ${blue})`;
 
-    newBtn.addEventListener("click", function () {
-      document.body.style.backgroundColor = newBtn.style.backgroundColor;
-    });
+  document.body.style.backgroundImage = `url('')`;
+  document.body.style.backgroundColor = rgb;
 
-    // Append the new button to the container
-    container.appendChild(newBtn);
-
-    // Reset the input field
-    hexInput.value = "";
-  };
+  heading.style.color = rgb;
+  heading.textContent = `You clicked "Change Background Color Button"`;
 }
 
-document
-  .getElementById("create-button")
-  .addEventListener("click", createButton());
+function changeImage() {
+  const images = [
+    "https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?q=80&w=2100&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://plus.unsplash.com/premium_photo-1720287601920-ee8c503af775?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  ];
+  const randomIndex = Math.floor(Math.random() * images.length);
+  const randomImage = images[randomIndex];
+
+  document.body.style.backgroundImage = `url('${randomImage}')`;
+  document.body.style.backgroundPosition = "center";
+
+  heading.textContent = `You clicked "Change Background Image Button"`;
+}
+
+changeColorButton.addEventListener("click", changeColor);
+changeImageButton.addEventListener("click", changeImage);

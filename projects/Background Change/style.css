@@ -7,85 +7,59 @@
 body {
   width: 100vw;
   height: 100vh;
-  background-color: #efefef;
+  background-color: #2f2f2f;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
 }
 
 .container {
-  width: 100%;
+  width: 400px;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-}
-
-.box {
-  width: 50%;
-  height: 60px;
-  background-color: #fff;
-  border-radius: 5px;
-  margin: 10px;
-  padding: 5px 10px;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
+  gap: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  background-color: #1f1f1f;
+  border-radius: 10px;
+  padding: 20px;
 }
 
-.box input[type="text"] {
-  width: 70%;
-  height: 40px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  padding: 5px 10px;
-  font-size: 1rem;
-  background-color: #efefef;
-  color: #333;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+h1 {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 10px;
 }
 
-.box button {
-  width: 25%;
-  height: 40px;
+button {
+  padding: 10px 20px;
+  background-color: #4d4d4d;
+  color: #fff;
   border: none;
   border-radius: 5px;
-  background-color: #333;
-  color: #fff;
-  font-size: 1rem;
   cursor: pointer;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-}
-
-.box input[type="text"]:focus {
-  border: 2px solid #333;
-}
-
-.box button:hover {
-  background-color: #555;
-}
-
-#buttons-container {
-  width: 80%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-.btn {
-  width: 100px;
-  height: 50px;
-  border-radius: 10px;
-  color: #fff;
+  transition: background-color 0.3s ease;
   font-size: 1rem;
-  cursor: pointer;
+  font-weight: bold;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   margin: 10px;
 }
 
-.btn:hover {
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+button:hover {
+  background-color: #333;
+}
+
+.attribute {
+  position: absolute;
+  bottom: 25px;
+  color: #fff;
+}
+
+.attribute a {
+  text-decoration: none;
+  color: blue;
 }

@@ -6,32 +6,87 @@
 
 ## Weekly Tracks
 
-| **Week**                    | **Content**                                                     |
-| --------------------------- | --------------------------------------------------------------- |
-| `Week-01` (Jan 11)          | [Introduction](./week-01/README.md)                             |
-| `Week-02` (Jan 12-18)       | [HTML + Articles](./week-02/README.md)                          |
-| `Week-03` (Jan 19-25)       | [CSS + Challenges](./week-03/README.md)                         |
-| `Week-04` (Jan 26 - Feb 01) | [CSS libraries + JS Intro](./week-04/README.md)                 |
-| `Week-05` (Feb 02-08)       | [Conditionals, Loops & Array Challenges](./week-05/README.md)   |
-| `Week-06` (Feb 09-15)       | [Objects & Prototypes](./week-06/README.md)                     |
-| `Week-07` (Feb 16-22)       | [DOM + Prototype & Object Challenges](./week-07/README.md)      |
-| `Week-08` (Feb 23 - Mar 01) | [JS Revision + Basic Projects](./week-08/README.md)             |
-| `Week-09` (Mar 02-08)       | [Project](./week-09/README.md)                                  |
-| `Week-10` (Mar 09-15)       | [Full Stack Project Overview + JS Project](./week-10/README.md) |
-| `Week-11` (Mar 16-22)       | [Full Stack Project Overview + JS Project](./week-11/README.md) |
+- `Week-01` (Jan 11-12) - [**Jump to folder**](./week-01/README.md)
 
-## Contributing
+  - Introduction to Web
 
-- Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-- See [CONTRIBUTING.md](../CONTRIBUTING.md) for ways to get started.
+- `Week-02` (Jan 13-19) - [**Jump to folder**](./week-02/README.md)
 
-## Contact
+  - Articles
+  - PRD - Product Requirements Document
+  - HTML Challenges
+  - Mastering HTML
+  - Introduction to CSS & Flexbox
 
-For any inquiries or feedback, please reach out to me through the following channels:
+- `Week-03` (Jan 20-26) - [**Jump to folder**](./week-03/README.md)
 
-- Email : [Email me](mailto:govind.iq@gmail.com)
-- LinkedIn : [@Jay Govind Kumar](https://www.linkedin.com/in/govind-jay)
-- Twitter : [@\_JayGovind](https://twitter.com/_JayGovind)
-- GitHub : [Jay-Govind](https://www.github.com/Jay-Govind-Kumar)
+  - Articles
+  - CSS Challenges
+  - Mastering CSSG with Grid
+  - CSS Libraries
 
-Feel free to connect with me and let's discuss the project or any other interesting ideas!
+- `Week-04` (Jan 27- Feb 02) - [**Jump to folder**](./week-04/README.md)
+
+  - Introduction to JavaScript
+  - JS Conditionals & Loops
+
+- `Week-05` (Feb 03-09) - [**Jump to folder**](./week-05/README.md)
+
+  - Articles
+  - JS Challenges (Conditionals, Loops & Arrays)
+  - Objects, Arrays & Classes in JavaScript
+  - Machine Coding on Prototypes
+
+- `Week-06` (Feb 10-16) - [**Jump to folder**](./week-06/README.md)
+
+  - Articles
+  - JS Objects & Prototypes
+  - Introduction to DOM
+
+- `Week-07` (Feb 17-23) - [**Jump to folder**](./week-07/README.md)
+
+  - Articles
+  - JS Challenges (Prototypes, Objects & DOM)
+  - JS Revision (SPEEDJS)
+    - JS Foundation
+    - Iteration, Functions & Concepts
+
+- `Week-08` (Feb 24- Mar 02) - [**Jump to folder**](./week-08/README.md)
+
+  - Articles
+  - JS Revision (SPEEDJS)
+    - JS Projects & Behind The Scenes
+    - Projects & Machine Coding Rounds
+    - Machine Coding and Resources
+  - Lexical Scope & Closures
+  - Fun JS Projects
+
+- `Week-09` (Mar 03-09) - [**Jump to folder**](./week-09/README.md)
+
+  - KAN-BAN Board
+  - Full Stack Authentication App With Non-Sequential Database (Work In Progress)
+
+- `Week-10` (Mar 10-16) - [**Jump to folder**](./week-10/README.md)
+
+  - JS Projects
+  - Full Stack Authentication App With Non-Sequential Database (Completed)
+  - Full Stack Authentication App With Sequential Database (Completed)
+
+- `Week-11` (Mar 17-23) - [**Jump to folder**](./week-11/README.md)
+
+  - JS Projects
+  - The Backend Internal
+  - The Node Internal
+
+- `Week-12` (Mar 24-30) - [**Jump to folder**](./week-12/README.md)
+
+  - Mega Project `Task Management App` (Work In Progress)
+
+- `Week-13` (Mar 31 - Apr 06) - [**Jump to folder**](./week-13/README.md)
+
+  - Mega Project `Task Management App` (Completed)
+  - TypeScript
+
+- `Week-14` (Apr 07-13) - [**Jump to folder**](./week-14/README.md)
+
+  - Articles

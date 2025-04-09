@@ -1,6 +1,6 @@
-<h1 align="center">Week-01</h1>
+<h1 align="center">Week-01 (Jan 11-12)</h1>
 
-- `Basic Introduction`
+- `Introduction to Web`
 
 ## Contributing
 

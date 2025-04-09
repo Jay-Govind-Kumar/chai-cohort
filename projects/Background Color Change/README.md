@@ -1,10 +1,9 @@
-# Background Change
+# Background Change with Buttons
 
 - [Live demo](https://jay-govind-kumar.github.io/chai-cohort/projects/Background%20Color%20Change/)
-  ![Background Color](./assets/bgColor.png)
-  ![Background Image](./assets/bgImage.png)
+  ![Background Color Change](./assets/bg.png)
 
-This project aims to create a background color button which when clicked, changes the background color of the page randomly.
+This project aims to create a dynamic background change using HTML, CSS, and JavaScript. Users can provide a hex color code to create a button of that color, which when clicked, changes the background color of the page.
 
 ## Usage
 

@@ -1,22 +1,45 @@
-<h1 align="center">Week-07</h1>
+<h1 align="center">Week-07 (Feb 17-23)</h1>
 
-- `Interview Questions Practice`
-- `DOM (Document Object Model)`
-- `Challenges`
-  - Change Theme [Live demo](https://jay-govind-kumar.github.io/chai-cohort/Code%20Files%20&%20Challenges/week-07/challenges/Theme/)
+- `Articles` - Visit the Articles folder to read articles.
+
+- `JS Revision (SPEEDJS)`
+
+  - JS Foundation
+  - Iteration, Functions & Concepts
+
+- `JS DOM Challenges` - Visit the project folder to see the challenges
+
+  - DOM Challenge 1-5
+  - DOM Challenge 6-10
+
+- `JS Challenges`
+
+  - Theme [Live demo](https://jay-govind-kumar.github.io/chai-cohort/Code%20Files%20&%20Challenges/week-07/challenges/Theme/)
+
   - Todo [Live demo](http://127.0.0.1:3000/Code%20Files%20&%20Challenges/week-07/challenges/Todo/index.html)
 
-## Contributing
+  - Prototype Challenges
 
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+    - [Challenge 1](./challenges/Prototype/Prototype%20Challenge%201.js)
+    - [Challenge 2](./challenges/Prototype/Prototype%20Challenge%202.js)
+    - [Challenge 3](./challenges/Prototype/Prototype%20Challenge%203.js)
+    - [Challenge 4](./challenges/Prototype/Prototype%20Challenge%204.js)
+    - [Challenge 5](./challenges/Prototype/Prototype%20Challenge%205.js)
+    - [Challenge 6](./challenges/Prototype/Prototype%20Challenge%206.js)
+    - [Challenge 7](./challenges/Prototype/Prototype%20Challenge%207.js)
+    - [Challenge 8](./challenges/Prototype/Prototype%20Challenge%208.js)
+    - [Challenge 9](./challenges/Prototype/Prototype%20Challenge%209.js)
+    - [Challenge 10](./challenges/Prototype/Prototype%20Challenge%2010.js)
 
-## Contact
+  - Object Challenges
 
-For any inquiries or feedback, please reach out to me through the following channels:
-
-- Email : [Email me](mailto:govind.iq@gmail.com)
-- LinkedIn : [@Jay Govind Kumar](https://www.linkedin.com/in/govind-jay)
-- Twitter : [@\_JayGovind](https://twitter.com/_JayGovind)
-- GitHub : [Jay-Govind](https://www.github.com/Jay-Govind-Kumar)
-
-Feel free to connect with me and let's discuss the project or any other interesting ideas!
+    - [Challenge 1](./challenges/Object/Object%20Challenge%201.js)
+    - [Challenge 2](./challenges/Object/Object%20Challenge%202.js)
+    - [Challenge 3](./challenges/Object/Object%20Challenge%203.js)
+    - [Challenge 4](./challenges/Object/Object%20Challenge%204.js)
+    - [Challenge 5](./challenges/Object/Object%20Challenge%205.js)
+    - [Challenge 6](./challenges/Object/Object%20Challenge%206.js)
+    - [Challenge 7](./challenges/Object/Object%20Challenge%207.js)
+    - [Challenge 8](./challenges/Object/Object%20Challenge%208.js)
+    - [Challenge 9](./challenges/Object/Object%20Challenge%209.js)
+    - [Challenge 10](./challenges/Object/Object%20Challenge%2010.js)
