@@ -9,6 +9,6 @@
 
   - [CSS Hero Challenge](https://jay-govind-kumar.github.io/chai-cohort/Code%20Files%20&%20Challenges/week-03/challenges/CSS%20Hero/)
 
-    - [CSS Landing Page Challenge](https://jay-govind-kumar.github.io/chai-cohort/Code%20Files%20&%20Challenges/week-03/challenges/CSS%20Landing%20Page/)
+  - [CSS Landing Page Challenge](https://jay-govind-kumar.github.io/chai-cohort/Code%20Files%20&%20Challenges/week-03/challenges/CSS%20Landing%20Page/)
 
   - [CSS Table Challenge](https://jay-govind-kumar.github.io/chai-cohort/Code%20Files%20&%20Challenges/week-03/challenges/CSS%20Pricing%20Table/)

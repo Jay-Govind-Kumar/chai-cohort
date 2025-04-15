@@ -40,12 +40,12 @@
 - `DOM Challenges [1-5]`
 
   - [README](./DOM%20Challenges%20[1-5]/README.md)
-  - [Live](http://127.0.0.1:3000/projects/DOM%20Challenges%20[1-5]/index.html)
+  - [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/DOM%20Challenges%20[1-5]/)
 
 - `DOM Challenges [6-10]`
 
   - [README](./DOM%20Challenges%20[6-10]/README.md)
-  - [Live](http://127.0.0.1:3000/projects/DOM%20Challenges%20[6-10]/index.html)
+  - [Live](https://jay-govind-kumar.github.io/chai-cohort/projects/DOM%20Challenges%20[6-10]/)
 
 - `Palindrome Checker`
 
