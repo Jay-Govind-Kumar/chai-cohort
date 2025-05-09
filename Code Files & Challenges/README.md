@@ -6,7 +6,7 @@
 
 ## Weekly Tracks
 
-- `Week-01` (Jan 11-12) - [**Jump to folder**](./week-01/README.md)
+- `Week-01` (Jan 11-12)
 
   - Introduction to Web
 
@@ -61,10 +61,14 @@
   - Lexical Scope & Closures
   - Fun JS Projects
 
-- `Week-09` (Mar 03-09) - [**Jump to folder**](./week-09/README.md)
+- `Week-09` (Mar 03-09)
 
   - KAN-BAN Board
   - Full Stack Authentication App With Non-Sequential Database (Work In Progress)
+    - Using MongoDB
+    - Setup Basic Files
+    - Setup Database
+    - Setup Routes, Controllers & Models
 
 - `Week-10` (Mar 10-16) - [**Jump to folder**](./week-10/README.md)
 
@@ -78,7 +82,7 @@
   - The Backend Internal
   - The Node Internal
 
-- `Week-12` (Mar 24-30) - [**Jump to folder**](./week-12/README.md)
+- `Week-12` (Mar 24-30)
 
   - Mega Project `Task Management App` (Work In Progress)
 
@@ -90,3 +94,19 @@
 - `Week-14` (Apr 07-13) - [**Jump to folder**](./week-14/README.md)
 
   - Articles
+  - React (Big Picture Overview)
+
+- `Week-15` (Apr 14-20) - [**Jump to folder**](./week-15/README.md)
+
+  - Articles
+  - Building a LeetCode Clone Part 1
+
+- `Week-16` (Apr 21-27) - [**Jump to folder**]
+
+  - Building a LeetCode Clone Part 2
+  - Fixing Judge0 issues and Create Controllers
+
+- `Week-17` (Apr 28-May 04) - [**Jump to folder**]
+
+  - Building a LeetCode Clone Part 3
+  - Leetcode Backend Finale

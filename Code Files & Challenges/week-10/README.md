@@ -2,6 +2,7 @@
 
 - `Full Stack Authentication App With Non-Sequential Database` - (Completed)
 
+  - Using MongoDB
   - Write Backend Code
   - [**Go To Project Repo**](https://github.com/Jay-Govind-Kumar/Authentication-System-with-NonSequential-Database)
 
